@@ -8,6 +8,8 @@
 # http://github.com/RailsApps/rails3-application-templates/issues
 #----------------------------------------------------------------------------
 
+/package/
+
 # bundler state
 /.bundle
 /vendor/bundle/
